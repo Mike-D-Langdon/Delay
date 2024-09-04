@@ -46,4 +46,7 @@ private:
     
     float targetDelayTime = 0.0f;  // one-pole smoothing
     float coeff = 0.0f;  // one-pole smoothing
+    
+    // Macro to make sure no copies are made and to prevent mem leaks.
+    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (Parameters)
 };
