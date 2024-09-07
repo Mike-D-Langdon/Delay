@@ -5,6 +5,8 @@
               cppLanguageStandard="20">
   <MAINGROUP id="LU5aw0" name="Delay">
     <GROUP id="{BC80497C-533D-A12C-DCFA-E8993F6B4572}" name="Source">
+      <FILE id="Z19MyR" name="RotaryKnob.cpp" compile="1" resource="0" file="Source/RotaryKnob.cpp"/>
+      <FILE id="RlNtU5" name="RotaryKnob.h" compile="0" resource="0" file="Source/RotaryKnob.h"/>
       <FILE id="yrKQKA" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
       <FILE id="LymwI8" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
       <FILE id="P6Se4D" name="PluginProcessor.cpp" compile="1" resource="0"
